@@ -1,0 +1,107 @@
+{
+  "type": "directory",
+  "name": "Kokoapps exercise project",
+  "children": [
+    {
+      "type": "directory",
+      "name": "Group A",
+      "children": [
+        {
+          "type": "directory",
+          "name": "Group A-1",
+          "children": [
+            {
+              "type": "directory",
+              "name": "Group A-1-1",
+              "children": [
+                { "type": "file", "name": "file1.txt" },
+                { "type": "file", "name": "file2.txt" },
+                { "type": "file", "name": "file3.txt" }
+              ]
+            },
+            {
+              "type": "file",
+              "name": "file1.txt"
+            },
+            {
+              "type": "file",
+              "name": "file2.txt"
+            }
+          ]
+        },
+        {
+          "type": "directory",
+          "name": "Group A-2",
+          "children": [
+            {
+              "type": "file",
+              "name": "file3.txt"
+            },
+            {
+              "type": "file",
+              "name": "file4.txt"
+            }
+          ]
+        },
+        {
+          "type": "file",
+          "name": "file1.txt"
+        },
+        {
+          "type": "file",
+          "name": "file2.txt"
+        }
+      ]
+    },
+    {
+      "type": "directory",
+      "name": "Group B",
+      "children": [
+        {
+          "type": "directory",
+          "name": "Group B-1",
+          "children": [
+            {
+              "type": "file",
+              "name": "file1.txt"
+            },
+            {
+              "type": "file",
+              "name": "file2.txt"
+            }
+          ]
+        },
+        {
+          "type": "directory",
+          "name": "Group B-2",
+          "children": [
+            {
+              "type": "file",
+              "name": "file3.txt"
+            },
+            {
+              "type": "file",
+              "name": "file4.txt"
+            }
+          ]
+        },
+        {
+          "type": "file",
+          "name": "file1.txt"
+        },
+        {
+          "type": "file",
+          "name": "file2.txt"
+        },
+        {
+          "type": "file",
+          "name": "file3.txt"
+        },
+        {
+          "type": "file",
+          "name": "file4.txt"
+        }
+      ]
+    }
+  ]
+}

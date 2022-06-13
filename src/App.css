@@ -1,0 +1,13 @@
+.App {
+  background-color: seashell;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.treeview-container {
+  width: 30em;
+  height: 80vh;
+}
